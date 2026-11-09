@@ -40,3 +40,7 @@ A interface foi desenvolvida considerando a organização dos elementos, a facil
 - **Vs Code:** editor de código fonte.
 
 ---
+
+## 📌 Considerações Finais
+
+O projeto permitiu colocar em prática os conhecimentos adquiridos na disciplina, desenvolvendo habilidades em programação, organização, criatividade e trabalho em equipe, além de criar um sistema funcional e responsivo.
